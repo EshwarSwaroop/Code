@@ -54,10 +54,29 @@ PROFESSIONAL EXPERIENCE:
 
  
 
-AMELIA (IPsoft Global Services), Banglore, Karanataka. 
-Applications Administrator (2019 – 2021)  
-Provided support for all Moody’s Rating applications, Performed Data Recovery procedures and application maintenance.  
-Solved time sensitive issues for clients and provided exceptional results. 
+PROFESSIONAL EXPERIENCE:                                                               (Sept 2019 – Feb 2021)
+
+IPsoft Global Services Pvt Ltd. 
+Banglore, Karanataka.
+
+Project: Moody's Investors Service. 
+
+Roles and Responsibilities:
+
+•	Understanding the business flow of the Ratings applications.
+•	Maintaining and ensuring the smooth flow of all the applications under document Management.
+•	Working with various teams to resolve issues as soon as possible.
+•	Wrote and executed various MySQL database queries to generate reports per business requests.
+•	Debugging the stored procedure and application logs when required. 
+•	Worked with Control-M team to ensure the reports were generated within estimated time.
+•	Usage of IDAM for placing scripts in specific paths and raising access requests for clients.
+•	Updating the existing SOP and creating new one’s as per the business requests.
+•	Resolving and updating tickets as per the SLA.
+•	Ticket tracking using SNOW and IPCNETER and bug tracking in IDAM.
+•	Understanding the business flow of the Ratings applications.
+•	Applications supported are AccuRate , Moodys.com, Methode.
+
+ 
 
  
 
