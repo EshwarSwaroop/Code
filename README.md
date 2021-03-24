@@ -10,8 +10,11 @@ Mobile: +91 973 101 2559 / +91 861 869 1297
 TECHNICAL SKILLS: 
 
 Language			: C, Python, Core Java, Basics of C++. 
+
 Web Based Development	: HTML 
+
 Databases			: Oracle DB 
+
 Operating System		: Windows, Linux 
 
 ACHIEVEMENTS & CERTIFICATIONS: 
@@ -61,12 +64,18 @@ Solved time sensitive issues for clients and provided exceptional results.
 PERSONAL PROFILE:
 
 Father’s Name	: Rajasekhar Perumalla.
+
 DOB			: 25 September 1997.
+
 Gender		: Male.
+
 Languages known	: English, Telugu, Kannada and Hindi.
+
 Nationality		: Indian.
-Hobbies		: Football,E-sports.
-Personal Strength	: Communication Skills, Team Work, Diligence.
+
+
+
+
 
  
 
